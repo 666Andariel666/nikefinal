@@ -186,7 +186,6 @@ input:focus {
     outline: none;
     border: none;
 }
-
 .input-name {
     height: 34px;
     color: #9B9B9B;
@@ -215,13 +214,10 @@ input:focus {
     display: flex;
     justify-content: space-between;
 }
-
 .footer-nav__list-link{
     transition: 400ms;
 }
-
 .footer-nav__list-link:hover{
     color: #D47300;
 }
-
 /* ===================== FOOTER =================== */
