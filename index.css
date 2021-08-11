@@ -217,6 +217,7 @@ input:focus {
 .footer-nav__list-link{
     transition: 400ms;
 }
+
 .footer-nav__list-link:hover{
     color: #D47300;
 }
