@@ -193,7 +193,6 @@ input:focus {
     padding-left: 8px;
     font-size: 18px;
 }
-
 .input-message {
     height: 86px;
     color: #9B9B9B;
@@ -209,7 +208,6 @@ input:focus {
     text-align: center;
  
 }
-
 .footer-content{
     display: flex;
     justify-content: space-between;
@@ -217,7 +215,6 @@ input:focus {
 .footer-nav__list-link{
     transition: 400ms;
 }
-
 .footer-nav__list-link:hover{
     color: #D47300;
 }
